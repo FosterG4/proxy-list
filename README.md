@@ -1,8 +1,10 @@
 #################
+FREE PROXY LIST
+#################
 
-updates every 30 minutes
+- updates every 30 minutes
 
-all ips are auto-checked
+- all ips are auto-checked
 
 #################
 
