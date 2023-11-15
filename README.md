@@ -2,10 +2,10 @@
 FREE PROXY LIST
 #################
 
-- updates every 30 minutes
+- updates every 7 hours
 
 - all ips are auto-checked
 
 #################
 
-www.mangasix.com
+bioskop247.com
