@@ -2,10 +2,15 @@
 FREE PROXY LIST
 #################
 
+-HTTP
+-HTTPS
+-SOCKS4
+-SOCKS5
+
 - updates every 7 hours
 
 - all ips are auto-checked
 
 #################
 
-bioskop247.com
+https://bioskop247.com
